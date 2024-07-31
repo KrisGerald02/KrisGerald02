@@ -32,7 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krisgerald02&show_icons=true&locale=en" alt="krisgerald02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krisgerald02&" alt="krisgerald02" /></p>
-
-
-## Estadisticas
-![Geraldine's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrisGerald02&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisGerald02&layout=compact&theme=dark)

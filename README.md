@@ -33,5 +33,3 @@ Information Systems Engineering Student at UAM</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krisgerald02&show_icons=true&locale=en&layout=compact" alt="krisgerald02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krisgerald02&show_icons=true&locale=en" alt="krisgerald02" /></p>
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />

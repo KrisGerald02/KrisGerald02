@@ -28,8 +28,6 @@ Information Systems Engineering Student at UAM</h1>
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/krisgerald"> 
 
-<img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="krisgerald" /></a></p><br><br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krisgerald02&show_icons=true&locale=en&layout=compact" alt="krisgerald02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krisgerald02&show_icons=true&locale=en" alt="krisgerald02" /></p>

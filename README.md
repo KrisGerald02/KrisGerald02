@@ -1,9 +1,4 @@
-# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Soy Geraldine
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@krisgege)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kris_geraldine.0225/)
-
-<h1 align="center">Hi 👋, I'm Geraldine</h1>
+# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> <h1 align="center">Hi 👋, I'm Geraldine</h1>
 <h3 align="center">Information Systems Engineering student at UAM</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krisgerald02" alt="krisgerald02" /></a> </p>

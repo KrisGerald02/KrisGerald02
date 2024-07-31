@@ -3,7 +3,7 @@
 
 
 <h3 align="center">I'm Geraldine</h3>X
-#Information Systems Engineering Student at UAM</h1>
+Information Systems Engineering Student at UAM</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krisgerald02" alt="krisgerald02" /></a> </p>
 

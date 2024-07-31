@@ -1,5 +1,9 @@
+<div id="header" align= "center">
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lxYXV4aWkyZ3ZjeWJpbm9jcnphdnM1dXR3MzF1bjZ5NDh1dGgxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LvgVkJnE8eAbkv4EMX/giphy.gif" width ="200" />
+
+
+<h3 align="center">Information Systems Engineering Student at UAM</h3>X
 # <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> <h1 align="center">I'm Geraldine</h1>
-<h3 align="center">Information Systems Engineering Student at UAM</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krisgerald02" alt="krisgerald02" /></a> </p>
 

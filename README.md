@@ -20,6 +20,7 @@ Information Systems Engineering Student at UAM</h1>
 <a href="https://instagram.com/kris_geraldine.0225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kris_geraldine.0225" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@krisgege" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@krisgege" height="30" width="40" /></a>
 <a href="https://discord.gg/843618921209790474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="843618921209790474" height="30" width="40" /></a>
+ <a href="https://www.twitch.tv/geraldines_gameplays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="843618921209790474" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

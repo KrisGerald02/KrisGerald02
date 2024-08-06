@@ -31,3 +31,8 @@ Information Systems Engineering Student at UAM</h1>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrisGerald02&theme=onedark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisGerald02&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📈 Estadísticas
+
+![Estadísticas de KrisGerald02](https://github-readme-stats.vercel.app/api?username=KrisGerald02&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+

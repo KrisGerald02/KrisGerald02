@@ -28,7 +28,7 @@ Information Systems Engineering Student at UAM</h1>
 
 <h3 align="left">Status:</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrisGerald02&theme=onedark)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=FranciscoMelen10&theme=dark&hide_border=true)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisGerald02&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 

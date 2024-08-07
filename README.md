@@ -32,5 +32,5 @@ Information Systems Engineering Student at UAM</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisGerald02&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisGerald02&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 

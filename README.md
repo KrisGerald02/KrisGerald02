@@ -7,11 +7,11 @@ Information Systems Engineering Student at UAM</h1>
 
 
 
-- 📫 How to reach me **krisvilalta02@gmail.com**
+📫 How to reach me **krisvilalta02@gmail.com**
 
-- ⚡ Fun fact **Small content creator who shares knowledge through social media based on extensive study 😵**
+⚡ Fun fact **Small content creator who shares knowledge through social media based on extensive study 😵**
 
-- 🌱 I’m currently learning **Swift, Python and C#**
+🌱 I’m currently learning **Swift, Python and C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

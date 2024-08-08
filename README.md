@@ -5,7 +5,7 @@
 Information Systems Engineering Student at UAM</h1>
 
 <h3 align="left">📫 How to reach me krisvilalta02@gmail.com</h3>
-<h3 align="left">🌱 I’m currently learning **Swift, Python and C#**</h3>
+<h3 align="left">🌱 I’m currently learning **Swift,JavaScript and C#</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

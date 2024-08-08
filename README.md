@@ -1,12 +1,10 @@
 <div id="header" align= "center">
  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lxYXV4aWkyZ3ZjeWJpbm9jcnphdnM1dXR3MzF1bjZ5NDh1dGgxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LvgVkJnE8eAbkv4EMX/giphy.gif" width ="200" />
 
-
 <h3 align="center">I'm Geraldine</h3>
 Information Systems Engineering Student at UAM</h1>
 
-
-
+<h3 align="left">📫 How to reach me **krisvilalta02@gmail.com**</h3>
 📫 How to reach me **krisvilalta02@gmail.com**
 
 ⚡ Fun fact **Small content creator who shares knowledge through social media based on extensive study 😵**

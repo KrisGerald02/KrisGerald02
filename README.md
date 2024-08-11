@@ -23,3 +23,11 @@ Information Systems Engineering Student at UAM</h1>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisGerald02&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+
+<h3 align="left">Operating Systems</h3>
+## Plataformas soportadas
+
+- ![Windows](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2021.svg/2048px-Windows_logo_-_2021.svg.png) Windows
+- ![macOS](https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg) macOS
+
+

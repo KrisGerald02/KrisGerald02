@@ -25,9 +25,9 @@ Information Systems Engineering Student at UAM</h1>
 
 
 <h3 align="left">Operating Systems</h3>
-## Plataformas soportadas
-
-- ![Windows](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2021.svg/2048px-Windows_logo_-_2021.svg.png) Windows
-- ![macOS](https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg) macOS
+Windows
+- ![Windows](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2021.svg/2048px-Windows_logo_-_2021.svg.png) 
+macOS
+- ![macOS](https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg) 
 
 

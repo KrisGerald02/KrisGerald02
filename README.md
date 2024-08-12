@@ -23,7 +23,3 @@ Information Systems Engineering Student at UAM</h1>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisGerald02&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Operating Systems:</h3>
-</a> 
-<a href="https://www.microsoft.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="microsoft" width="40" height="40"/> </a>
-</p>

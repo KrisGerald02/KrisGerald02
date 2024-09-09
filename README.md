@@ -59,6 +59,10 @@
   <a href="https://www.html5.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
   </a>
+  <!-- Icono de Excel -->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" alt="Excel" width="40" height="40" />
+  </a>
 </p>
 
 <p align="center">

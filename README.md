@@ -5,8 +5,6 @@
   <p>Information Systems Engineering Student at UAM</p>
 </div>
 
-<h3 align="left">🌱 I’m currently learning Swift, JavaScript, and Python</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/kris_geraldine.0225" target="_blank">

@@ -50,6 +50,8 @@
   <a href="https://www.html5.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
   </a>
+   <a href="https://www.adobeillustrator.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeillustrator/adobeillustrator-original.svg" alt="adobeillustrator" width="40" height="40" />
 </p>
 
 <p align="center">

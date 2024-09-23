@@ -50,9 +50,16 @@
   <a href="https://www.html5.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
   </a>
+</p>
+
+<h3 align="left">Tools of Visual Design and Communication:</h3>
+<p align="left">
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="Adobe Illustrator" width="40" height="40" />
 </a>
+ <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40" />
+  </a>
 </p>
 
 <p align="center">

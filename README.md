@@ -41,8 +41,8 @@
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" />
   </a>
-  <a href="https://th.bing.com/th/id/OIP.mFU4g5s1yGMx7KMBwGZh1wHaCr?rs=1&pid=ImgDetMain" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/OIP.mFU4g5s1yGMx7KMBwGZh1wHaCr?rs=1&pid=ImgDetMain" alt="Excel" width="40" height="40" />
+  <a href="https://static-00.iconduck.com/assets.00/ms-excel-icon-256x224-i8j8w5l8.png" target="_blank" rel="noreferrer">
+    <img src="https://static-00.iconduck.com/assets.00/ms-excel-icon-256x224-i8j8w5l8.png" alt="Excel" width="40" height="40" />
   </a>
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40" />

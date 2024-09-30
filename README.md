@@ -47,6 +47,9 @@
   <a href="https://static-00.iconduck.com/assets.00/ms-excel-icon-256x224-i8j8w5l8.png" target="_blank" rel="noreferrer">
     <img src="https://static-00.iconduck.com/assets.00/ms-excel-icon-256x224-i8j8w5l8.png" alt="Excel" width="40" height="40" />
   </a>
+   <a href="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol-2048x1152.png" target="_blank" rel="noreferrer">
+    <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol-2048x1152.png" alt="Excel" width="40" height="40" />
+  </a>
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40" />
   </a>

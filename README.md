@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lxYXV4aWkyZ3ZjeWJpbm9jcnphdnM1dXR3MzF1bjZ5NDh1dGgxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LvgVkJnE8eAbkv4EMX/giphy.gif" width="200" alt="GIF">
 
   <h3 align="center">I'm Geraldine</h3>
-  <p>Information Systems Engineering Student at UAM</p>
+  <p>System Engineering Student and Junior Researcher</p>
 </div>
 
 <h3 align="left">Connect with me:</h3>

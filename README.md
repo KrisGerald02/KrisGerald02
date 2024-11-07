@@ -48,7 +48,7 @@
     <img src="https://static-00.iconduck.com/assets.00/ms-excel-icon-256x224-i8j8w5l8.png" alt="Excel" width="40" height="40" />
   </a>
    <a href="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol-2048x1152.png" target="_blank" rel="noreferrer">
-    <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol-2048x1152.png" alt="Excel" width="50" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="50" height="40" />
   </a>
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40" />
@@ -61,8 +61,11 @@
      <a href="https://i.pinimg.com/originals/74/6d/77/746d77ef9b49afd5ec2306d39592d01e.png" target="_blank" rel="noreferrer">
     <img src="https://i.pinimg.com/originals/74/6d/77/746d77ef9b49afd5ec2306d39592d01e.png" alt="Adobe Illustrator" width="40" height="40" />
   </a>
-    <a href="URL_DEL_LOGO_DE_ENTERPRISE_ARCHITECT" target="_blank" rel="noreferrer">
+    <a href="ENTERPRISE_ARCHITECT" target="_blank" rel="noreferrer">
     <img src="https://financesonline.com/uploads/2020/06/Enterprise-Architect-logo1.png" alt="Enterprise Architect" width="70" height="40" />
+</a>
+ <a href="Office365" target="_blank" rel="noreferrer">
+    <img src="https://www.logo.wine/a/logo/Office_365/Office_365-Logo.wine.svg" alt="Office 365" width="70" height="40" />
 </a>
 
 </p>

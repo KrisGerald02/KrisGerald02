@@ -62,7 +62,7 @@
     <img src="https://i.pinimg.com/originals/74/6d/77/746d77ef9b49afd5ec2306d39592d01e.png" alt="Adobe Illustrator" width="40" height="40" />
   </a>
     <a href="URL_DEL_LOGO_DE_ENTERPRISE_ARCHITECT" target="_blank" rel="noreferrer">
-    <img src="https://financesonline.com/uploads/2020/06/Enterprise-Architect-logo1.png" alt="Enterprise Architect" width="40" height="60" />
+    <img src="https://financesonline.com/uploads/2020/06/Enterprise-Architect-logo1.png" alt="Enterprise Architect" width="70" height="40" />
 </a>
 
 </p>

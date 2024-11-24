@@ -67,10 +67,10 @@
  <a href="Office365" target="_blank" rel="noreferrer">
     <img src="https://www.logo.wine/a/logo/Office_365/Office_365-Logo.wine.svg" alt="Office 365" width="70" height="40" />
 </a><a href="GoogleForms" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968528.png" width="60" height="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968528.png" width="30" height="40" />
 </a>
     <a href="GoogleForms" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/G/google-sites-logo-2EBA6A6561-seeklogo.com.png" width="50" height="40" />
+    <img src="https://seeklogo.com/images/G/google-sites-logo-2EBA6A6561-seeklogo.com.png" width="30" height="40" />
 </a>
 </p>
 

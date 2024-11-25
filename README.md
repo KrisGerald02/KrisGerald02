@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lxYXV4aWkyZ3ZjeWJpbm9jcnphdnM1dXR3MzF1bjZ5NDh1dGgxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LvgVkJnE8eAbkv4EMX/giphy.gif" width="200" alt="GIF">
+  <img src="https://github.com/user-attachments/assets/00167960-38c2-40f3-ab2a-b5c5268a4748" width="200" alt="GIF">
 
   <h3 align="center">I'm Geraldine</h3>
   <p>System Engineering Student and Junior Researcher</p>

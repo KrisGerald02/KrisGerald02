@@ -34,8 +34,8 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="45" height="50" />
   </a>
-     <a href="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" alt="SQL" width="45" height="50" />
+     <a href="https://static-00.iconduck.com/assets.00/database-mysql-icon-1849x2048-81vgyimd.png" target="_blank" rel="noreferrer">
+    <img src="https://static-00.iconduck.com/assets.00/database-mysql-icon-1849x2048-81vgyimd.png" alt="MySQL" width="45" height="50" />
   </a>
 </p>
 

@@ -25,6 +25,9 @@
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40" />
   </a>
+  <a href="https://pngimg.com/uploads/php/php_PNG34.png" target="_blank" rel="noreferrer">
+    <img src="https://pngimg.com/uploads/php/php_PNG34.png" alt="PHP" width="40" height="40" />
+  </a>
   <a href="https://www.html5.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
   </a>

@@ -59,6 +59,9 @@
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40" />
   </a>
+   <a href="androidstudio" target="_blank" rel="noreferrer">
+    <img src="https://2.bp.blogspot.com/-YM4j5K40Q10/XcC8kFnqIuI/AAAAAAAARWo/eES1bmv4ezkfIq3YkjRQbOaE2VIWTSQPACLcBGAsYHQ/s0/Android_Studio.png" alt="andoroidstudio" width="40" height="40" />
+  </a>
   <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="Adobe Illustrator" width="40" height="40" />
   </a>  

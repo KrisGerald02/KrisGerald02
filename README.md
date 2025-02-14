@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/user-attachments/assets/00167960-38c2-40f3-ab2a-b5c5268a4748" width="200" alt="GIF">
+  <img src="https://github.com/user-attachments/assets/2f5de5bd-a721-4f10-9353-22853a6c29f6" width="200" alt="GIF">
 
   <h3 align="center">I'm Geraldine</h3>
   <p>System Engineering Student and Junior Researcher</p>

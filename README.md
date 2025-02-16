@@ -57,7 +57,7 @@
 <h3 align="left">System Modeling</h3>
 <p align="left">
     <a href="ENTERPRISE_ARCHITECT" target="_blank" rel="noreferrer">
-    <img src="https://iconape.com/wp-content/files/qp/349811/png/349811.png" alt="Enterprise Architect" width="70" height="40" />
+    <img src="https://iconape.com/wp-content/files/qp/349811/png/349811.png" alt="Enterprise Architect" width="70" height="60" />
 </a>
 </p>
 

@@ -81,6 +81,6 @@
     <img src="https://static-00.iconduck.com/assets.00/xampp-icon-1016x1024-w3cmucev.png" alt="xampp width="40" height="40" />
   </a>
      <a href="laravel" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/399/620/png-transparent-laravel-hd-logo.png" alt="lavarvel" width="40" height="40" />
+    <img src="https://th.bing.com/th/id/R.b3b644aa4995aee815fb831d715c4c68?rik=xmFh2anLSp0SDQ&pid=ImgRaw&r=0" alt="lavarvel" width="40" height="40" />
   </a>
 </p>

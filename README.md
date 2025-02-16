@@ -37,9 +37,6 @@
   </a>
    <a href="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol-2048x1152.png" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="50" height="40" />
-  </a>
-  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="Adobe Illustrator" width="40" height="40" />
   </a>  
     <a href="ENTERPRISE_ARCHITECT" target="_blank" rel="noreferrer">
     <img src="https://financesonline.com/uploads/2020/06/Enterprise-Architect-logo1.png" alt="Enterprise Architect" width="70" height="40" />
@@ -85,7 +82,7 @@
   </a>
   <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" width="40" height="40" />  </a>
-     <a href="https://i.pinimg.com/originals/74/6d/77/746d77ef9b49afd5ec2306d39592d01e.png" target="_blank" rel="noreferrer">
-    <img src="https://i.pinimg.com/originals/74/6d/77/746d77ef9b49afd5ec2306d39592d01e.png" alt="Adobe Illustrator" width="40" height="40" />
+  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="Adobe Illustrator" width="40" height="40" />
   </a>
 </p>

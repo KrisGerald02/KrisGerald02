@@ -5,6 +5,46 @@
   <p>System Engineering Student and Junior Researcher</p>
 </div>
 
+<h3 align="left">System Modeling</h3>
+<p align="left">
+    <a href="ENTERPRISE_ARCHITECT" target="_blank" rel="noreferrer">
+    <img src="https://iconape.com/wp-content/files/qp/349811/png/349811.png" alt="Enterprise Architect" width="70" height="70" />
+</a>
+</p>
+
+  <h3 align="left">Mobile Development</h3>
+<p align="left">
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40" />
+  </a>
+    <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40" />
+  </a>
+</p>
+
+<h3 align="left">Data Analysis and Visualization</h3>
+<p align="left">
+  <a href="https://static-00.iconduck.com/assets.00/ms-excel-icon-256x224-i8j8w5l8.png" target="_blank" rel="noreferrer">
+    <img src="https://static-00.iconduck.com/assets.00/ms-excel-icon-256x224-i8j8w5l8.png" alt="Excel" width="40" height="40" />
+  </a>
+   <a href="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol-2048x1152.png" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="50" height="40" />
+  </a>  
+</p>
+
+  <h3 align="left"> Desing Software</h3>
+<p align="left">
+     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
+  </a>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" width="40" height="40" />  </a>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="Adobe Illustrator" width="40" height="40" />
+  </a>
+</p>
+
+
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
@@ -44,41 +84,3 @@
   </a>
 </p>
 
-<h3 align="left">System Modeling</h3>
-<p align="left">
-    <a href="ENTERPRISE_ARCHITECT" target="_blank" rel="noreferrer">
-    <img src="https://iconape.com/wp-content/files/qp/349811/png/349811.png" alt="Enterprise Architect" width="70" height="70" />
-</a>
-</p>
-
-  <h3 align="left">Mobile Development</h3>
-<p align="left">
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40" />
-  </a>
-    <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40" />
-  </a>
-</p>
-
-<h3 align="left">Data Analysis and Visualization</h3>
-<p align="left">
-  <a href="https://static-00.iconduck.com/assets.00/ms-excel-icon-256x224-i8j8w5l8.png" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/ms-excel-icon-256x224-i8j8w5l8.png" alt="Excel" width="40" height="40" />
-  </a>
-   <a href="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol-2048x1152.png" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="50" height="40" />
-  </a>  
-</p>
-
-  <h3 align="left"> Desing Software</h3>
-<p align="left">
-     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  </a>
-  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" width="40" height="40" />  </a>
-  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="Adobe Illustrator" width="40" height="40" />
-  </a>
-</p>

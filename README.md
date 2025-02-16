@@ -69,9 +69,6 @@
    <a href="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol-2048x1152.png" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="50" height="40" />
   </a>  
-    <a href="ENTERPRISE_ARCHITECT" target="_blank" rel="noreferrer">
-    <img src="https://financesonline.com/uploads/2020/06/Enterprise-Architect-logo1.png" alt="Enterprise Architect" width="70" height="40" />
-</a>
 </p>
 
   <h3 align="left"> Desing Software</h3>

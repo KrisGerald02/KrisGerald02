@@ -25,15 +25,6 @@
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40" />
   </a>
-  <a href="https://pngimg.com/uploads/php/php_PNG34.png" target="_blank" rel="noreferrer">
-    <img src="https://pngimg.com/uploads/php/php_PNG34.png" alt="PHP" width="40" height="40" />
-  </a>
-  <a href="https://www.html5.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="45" height="50" />
-  </a>
      <a href="https://static-00.iconduck.com/assets.00/database-mysql-icon-1849x2048-81vgyimd.png" target="_blank" rel="noreferrer">
     <img src="https://static-00.iconduck.com/assets.00/database-mysql-icon-1849x2048-81vgyimd.png" alt="MySQL" width="45" height="50" />
   </a>
@@ -59,9 +50,6 @@
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40" />
   </a>
-   <a href="xampp" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/xampp-icon-1016x1024-w3cmucev.png" alt="xampp width="40" height="40" />
-  </a>
   <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="Adobe Illustrator" width="40" height="40" />
   </a>  
@@ -76,4 +64,23 @@
  <a href="Office365" target="_blank" rel="noreferrer">
     <img src="https://www.logo.wine/a/logo/Office_365/Office_365-Logo.wine.svg" alt="Office 365" width="70" height="40" />
 </a>
+</p>
+
+  <h3 align="left">Web Development</h3>
+<p align="left">
+  <a href="https://pngimg.com/uploads/php/php_PNG34.png" target="_blank" rel="noreferrer">
+    <img src="https://pngimg.com/uploads/php/php_PNG34.png" alt="PHP" width="40" height="40" />
+  </a>
+  <a href="https://www.html5.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="45" height="50" />
+  </a>
+     <a href="xampp" target="_blank" rel="noreferrer">
+    <img src="https://static-00.iconduck.com/assets.00/xampp-icon-1016x1024-w3cmucev.png" alt="xampp width="40" height="40" />
+  </a>
+     <a href="laravel" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/399/620/png-transparent-laravel-hd-logo.png" alt="lavarvel" width="40" height="40" />
+  </a>
 </p>

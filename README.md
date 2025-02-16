@@ -54,6 +54,13 @@
   </a>
 </p>
 
+<h3 align="left">System Modeling</h3>
+<p align="left">
+    <a href="ENTERPRISE_ARCHITECT" target="_blank" rel="noreferrer">
+    <img src="https://financesonline.com/uploads/2020/06/Enterprise-Architect-logo1.png" alt="Enterprise Architect" width="70" height="40" />
+</a>
+</p>
+
 <h3 align="left">Data Analysis and Visualization</h3>
 <p align="left">
   <a href="https://static-00.iconduck.com/assets.00/ms-excel-icon-256x224-i8j8w5l8.png" target="_blank" rel="noreferrer">

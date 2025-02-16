@@ -19,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th?q=JavaScript+Icon+for+Notion&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.5&pid=InlineBlock&mkt=es-XL&cc=NI&setlang=es&adlt=moderate&t=1&mw=247" alt="JavaScript" width="40" height="40" />
+    <img src="https://hackslash.geca.ac.in/pic/javascript.png" alt="JavaScript" width="40" height="40" />
 </p>
 
 <h3 align="left">Tools:</h3>

@@ -25,9 +25,6 @@
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40" />
   </a>
-     <a href="https://static-00.iconduck.com/assets.00/database-mysql-icon-1849x2048-81vgyimd.png" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/database-mysql-icon-1849x2048-81vgyimd.png" alt="MySQL" width="45" height="50" />
-  </a>
 </p>
 
 <h3 align="left">Tools:</h3>
@@ -82,5 +79,8 @@
   </a>
      <a href="laravel" target="_blank" rel="noreferrer">
     <img src="https://th.bing.com/th/id/R.b3b644aa4995aee815fb831d715c4c68?rik=xmFh2anLSp0SDQ&pid=ImgRaw&r=0" alt="lavarvel" width="40" height="40" />
+  </a>
+   <a href="https://static-00.iconduck.com/assets.00/database-mysql-icon-1849x2048-81vgyimd.png" target="_blank" rel="noreferrer">
+    <img src="https://static-00.iconduck.com/assets.00/database-mysql-icon-1849x2048-81vgyimd.png" alt="MySQL" width="45" height="50" />
   </a>
 </p>

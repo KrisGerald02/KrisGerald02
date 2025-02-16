@@ -14,14 +14,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   </a>
   <a href="https://media.licdn.com/dms/image/D4D12AQEfpm1hZiEN6Q/article-cover_image-shrink_720_1280/0/1673639331003?e=2147483647&v=beta&t=y-2SK0tAKIhMI4adSJ-kODboj4OUznZgWe95jOdHoww" target="_blank" rel="noreferrer">
-    <img src="https://media.licdn.com/dms/image/D4D12AQEfpm1hZiEN6Q/article-cover_image-shrink_720_1280/0/1673639331003?e=2147483647&v=beta&t=y-2SK0tAKIhMI4adSJ-kODboj4OUznZgWe95jOdHoww" alt="C++" width="40" height="40" />
-  </a>
-  
+    <img src="https://media.licdn.com/dms/image/D4D12AQEfpm1hZiEN6Q/article-cover_image-shrink_720_1280/0/1673639331003?e=2147483647&v=beta&t=y-2SK0tAKIhMI4adSJ-kODboj4OUznZgWe95jOdHoww" alt="C++" width="40" height="40" /> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+    <img src="https://th.bing.com/th?q=JavaScript+Icon+for+Notion&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.5&pid=InlineBlock&mkt=es-XL&cc=NI&setlang=es&adlt=moderate&t=1&mw=247" alt="JavaScript" width="40" height="40" />
 </p>
 
 <h3 align="left">Tools:</h3>

@@ -81,6 +81,6 @@
     <img src="https://th.bing.com/th/id/R.b3b644aa4995aee815fb831d715c4c68?rik=xmFh2anLSp0SDQ&pid=ImgRaw&r=0" alt="lavarvel" width="40" height="40" />
   </a>
    <a href="https://static-00.iconduck.com/assets.00/database-mysql-icon-1849x2048-81vgyimd.png" target="_blank" rel="noreferrer">
-    <img src="https://pngimg.com/d/mysql_PNG29.png" alt="MySQL" width="45" height="50" />
+    <img src="https://github.com/user-attachments/assets/02d9f064-f75b-417e-8938-b663ae813d9d)" alt="MySQL" width="45" height="50" />
   </a>
 </p>

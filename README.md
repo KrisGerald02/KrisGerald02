@@ -78,13 +78,13 @@
   </a>
 </p>
 
-  <h3 align="left"> Dseing Software</h3>
+  <h3 align="left"> Desing Software</h3>
 <p align="left">
      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
   </a>
   <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" width="40" height="40" />  </a>
      <a href="https://i.pinimg.com/originals/74/6d/77/746d77ef9b49afd5ec2306d39592d01e.png" target="_blank" rel="noreferrer">
     <img src="https://i.pinimg.com/originals/74/6d/77/746d77ef9b49afd5ec2306d39592d01e.png" alt="Adobe Illustrator" width="40" height="40" />
   </a>

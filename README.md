@@ -77,9 +77,3 @@
     <img src="https://www.logo.wine/a/logo/Office_365/Office_365-Logo.wine.svg" alt="Office 365" width="70" height="40" />
 </a>
 </p>
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrisGerald02&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
-</p>

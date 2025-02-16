@@ -44,6 +44,13 @@
   </a>
 </p>
 
+<h3 align="left">System Modeling</h3>
+<p align="left">
+    <a href="ENTERPRISE_ARCHITECT" target="_blank" rel="noreferrer">
+    <img src="https://iconape.com/wp-content/files/qp/349811/png/349811.png" alt="Enterprise Architect" width="70" height="70" />
+</a>
+</p>
+
   <h3 align="left">Mobile Development</h3>
 <p align="left">
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
@@ -52,13 +59,6 @@
     <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40" />
   </a>
-</p>
-
-<h3 align="left">System Modeling</h3>
-<p align="left">
-    <a href="ENTERPRISE_ARCHITECT" target="_blank" rel="noreferrer">
-    <img src="https://iconape.com/wp-content/files/qp/349811/png/349811.png" alt="Enterprise Architect" width="70" height="70" />
-</a>
 </p>
 
 <h3 align="left">Data Analysis and Visualization</h3>

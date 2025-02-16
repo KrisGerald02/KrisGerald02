@@ -26,12 +26,6 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-    <a href="https://visualstudiocode.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40" />
-  </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" />
-  </a>
   <a href="https://static-00.iconduck.com/assets.00/ms-excel-icon-256x224-i8j8w5l8.png" target="_blank" rel="noreferrer">
     <img src="https://static-00.iconduck.com/assets.00/ms-excel-icon-256x224-i8j8w5l8.png" alt="Excel" width="40" height="40" />
   </a>

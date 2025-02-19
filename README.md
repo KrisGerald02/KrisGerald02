@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://github.com/user-attachments/assets/2f5de5bd-a721-4f10-9353-22853a6c29f6" width="200" alt="GIF">
 <br>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F799C5&width=435&lines=Hi+I'm+Geraldine+a+System+Engineering+Student)](https://git.io/typing-svg)
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F799C5&width=435&lines=Hi+I'm+Geraldine+a+System+Engineering+Student" width="200" alt="GIF">
 </div>
 

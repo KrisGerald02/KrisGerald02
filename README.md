@@ -73,7 +73,7 @@
       <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-     <a href="#"><img alt="Git" src="https://img.shields.io/badge/PowerBI-F05033.svg?logo=Power&20BIlogoColor=white"></a>
+     <a href="#"><img alt="Git" src="https://img.shields.io/badge/PowerBI-F7DF1E.svg?logo=Power&20BIlogoColor=white"></a>
       <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel-34A853.svg?logo=excel%20&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="XCode" src="https://img.shields.io/badge/XCode-0078d7.svg?logo=xcode&logoColor=white"></a>

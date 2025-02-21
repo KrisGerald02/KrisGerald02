@@ -1,15 +1,16 @@
-<p align="center">
-    <h1>♡&emsp;I'm Kristel Villalta&emsp;♡</h1>
-</p>
-
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=System+Engineering+Student;Always+learning+new+things!!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
-</p>
-
-<div style="text-align: center;">
-    <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="float:left;">
-    <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="float:right;">
+<div style="position: relative; text-align: center;">
+    <!-- Texto sobre las imágenes -->
+    <p align="center" style="position: absolute; top: 20px; width: 100%; z-index: 2;">
+        <h1>♡&emsp;I'm Kristel Villalta&emsp;♡</h1>
+    </p>
+    <p align="center" style="position: absolute; top: 80px; width: 100%; z-index: 2;">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=System+Engineering+Student;Always+learning+new+things!!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+    </p>
+    <!-- Imágenes flotando a la izquierda y derecha -->
+    <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="float:left; margin-top: 120px;">
+    <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="float:right; margin-top: 120px;">
 </div>
+
 
 
 <p align="center">

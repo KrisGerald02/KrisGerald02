@@ -13,12 +13,8 @@
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/KrisGerald02/UAMCourses"><img width="278" src="https://github.com/KrisGerald02/UAMCourses" alt="UAMCourses"></a>
-   <a href="https://github.com/KrisGerald02/UAMCourses">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=UAMCourses&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true&icon_color=F8D866&show_icons=false" alt="UAMCourses">
 </a>
-    <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
-  </p>
 
   <a href="https://github.com/KrisGerald02?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>

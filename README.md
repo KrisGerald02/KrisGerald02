@@ -1,4 +1,5 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <br>
 <p align="center">
     <h1 align="center">♡&emsp;I'm Kristel Villalta&emsp;♡</h1>
@@ -7,12 +8,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=System+Engineering+Student;Always+learning+new+things!!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 
-
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
-
   <p align="left">
-    <a href="https://github.com/KrisGerald02/UAMCourses"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=UAMCourses&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true&icon_color=F8D866&show_icons=false" alt="UAMCourses">
+    <a href="https://github.com/KrisGerald02/UAMCourses">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=UAMCourses&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true&icon_color=F8D866&show_icons=false" alt="UAMCourses">
     </a>
     <a href="https://github.com/KrisGerald02/MyHoursUAM">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=MyHoursUAM&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true&icon_color=F8D866&show_icons=false" alt="MyHoursUAM">
@@ -22,10 +22,7 @@
 
 <details open> 
   <summary><h2>🛠️ Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
   <h3>👨‍💻 Programming and Markup Languages</h3>
-
   <p>
      <a><img alt="Swift" src="https://img.shields.io/badge/Swift-E34F26.svg?logo=swift&logoColor=white"></a>
       <a><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -44,7 +41,6 @@
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
-
   <p>
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
@@ -54,7 +50,6 @@
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
-
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
@@ -63,25 +58,23 @@
   </p>
 
   <h3>💻 Software and Tools</h3>
-
   <p>
       <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-5865F2.svg?logo=figma&logoColor=white"></a>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-<a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C8B.svg?logo=kali-linux&logoColor=white"></a>
+      <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C8B.svg?logo=kali-linux&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-     <a href="#"><img alt="Git" src="https://img.shields.io/badge/PowerBI-F7DF1E.svg?logo=Power&20BIlogoColor=white"></a>
+      <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F7DF1E.svg?logo=Power&20BIlogoColor=white"></a>
       <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel-34A853.svg?logo=excel%20&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="XCode" src="https://img.shields.io/badge/XCode-1793D1.svg?logo=xcode&logoColor=white"></a>
+      <a href="#"><img alt="XCode" src="https://img.shields.io/badge/XCode-1793D1.svg?logo=xcode&logoColor=white"></a>
   </p>
 
    <br>
     <a href="https://github.com/KrisGerald02?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
-<p align="right">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=KrisGerald02&label=Profile%20views&color=f75c7e&style=for-the-badge&color=f75c7e" alt="KrisGerald' profile views" />
 </p>
 
-    
 </details>

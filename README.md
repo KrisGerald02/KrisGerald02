@@ -33,7 +33,7 @@
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
-     <a><img alt="Bash" src="https://img.shields.io/badge/Swift-121011.svg?logo=swift&logoColor=orange"></a>
+     <a><img alt="Bash" src="https://img.shields.io/badge/Swift-E34F26.svg?logo=swift&logoColor=orange"></a>
       <a><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
       <a><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
       <a><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>

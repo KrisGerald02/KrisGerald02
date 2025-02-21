@@ -1,18 +1,15 @@
 <div style="position: relative; text-align: center;">
-    <!-- Imágenes -->
-    <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="float:left; z-index: 1;">
-    <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="float:right; z-index: 1;">
-    <!-- Texto y animación sobre las imágenes -->
+    <!-- Texto y animación encima de las imágenes -->
     <p align="center" style="position: absolute; top: 20px; left: 50%; transform: translateX(-50%); z-index: 2;">
         <h1>♡&emsp;I'm Kristel Villalta&emsp;♡</h1>
     </p>
     <p align="center" style="position: absolute; top: 80px; left: 50%; transform: translateX(-50%); z-index: 2;">
         <img src="https://readme-typing-svg.herokuapp.com/?lines=System+Engineering+Student;Always+learning+new+things!!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
     </p>
+    <!-- Imágenes de fondo -->
+    <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="position: absolute; left: 0; z-index: 1;">
+    <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="position: absolute; right: 0; z-index: 1;">
 </div>
-
-
-
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=System+Engineering+Student;Always+learning+new+things!!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">

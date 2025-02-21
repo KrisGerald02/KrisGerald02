@@ -1,6 +1,5 @@
 <p align="center">
- <span style="font-size: 40px; text-align: center; color: #f75c7e; font-weight: bold;">Im Kristel Villalta</span>
-  </a>
+  <span style="font-size: 50px; color: #f75c7e; font-family: 'Arial', sans-serif; font-weight: bold;">Im Kristel Villalta</span>
 </p>
 
 <p align="center">

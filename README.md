@@ -4,12 +4,10 @@
 <p align="center">
      <h1 align="center">✩&emsp;I'm Kristel Villalta&emsp;✩</h1>
 </p>
+<div style="text-align: center;">
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=                System%20Engineer%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
-<br>
-<div style="text-align: center;">
-    <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" />
 </div>
 
 

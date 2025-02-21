@@ -1,5 +1,5 @@
 <p align="center">
-    <span style="font-size: 20px; text-align: center; color: pink;">Im Kristel Villalta</span>
+ <span style="font-size: 40px; text-align: center; color: #f75c7e; font-weight: bold;">Im Kristel Villalta</span>
   </a>
 </p>
 

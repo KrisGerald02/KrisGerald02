@@ -74,6 +74,6 @@
    <br>
     <a href="https://github.com/KrisGerald02?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
-![Visitas](https://badges.to/shields.io/github/views/KrisGerald02)
+![Visitas](https://shields.io/badge/dynamic/json?color=green&label=Visitas&query=value&url=https://api.countapi.xyz/hit/KrisGerald02/visitas)
     
 </details>

@@ -33,7 +33,7 @@
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
-     <a><img alt="Bash" src="https://img.shields.io/badge/Swift-E34F26.svg?logo=swift&logoColor=white"></a>
+     <a><img alt="Swift" src="https://img.shields.io/badge/Swift-E34F26.svg?logo=swift&logoColor=white"></a>
       <a><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
       <a><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
       <a><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
@@ -54,7 +54,8 @@
   <p>
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-      <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/-Laravel-00979D?logo=Laravel&logoColor=white"></a>
+      <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/-Laravel-9C033A?logo=Laravel&logoColor=white"></a>
+      <a href="#"><img alt="XAMPP" src="https://img.shields.io/badge/-XAMPP-E34F26?logo=XAMPP&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
   </p>
 

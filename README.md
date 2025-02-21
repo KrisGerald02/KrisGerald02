@@ -3,14 +3,8 @@
 <br>
 <p align="center">
      <h1 align="center">✩&emsp;I'm Kristel Villalta&emsp;✩</h1>
+       <img src="https://readme-typing-svg.demolab.com/?lines=                System%20Engineer%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
-<div style="text-align: center;">
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=                System%20Engineer%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
-</p>
-</div>
-
-
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 

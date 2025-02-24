@@ -14,11 +14,14 @@
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/KrisGerald02/UAMCourses">
+    <a href="https://github.com/KrisGerald02/UAMCourses.git">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=UAMCourses&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true&icon_color=F8D866&show_icons=false" alt="UAMCourses">
     </a>
-    <a href="https://github.com/KrisGerald02/MyHoursUAM">
+    <a href="https://github.com/KrisGerald02/MyHoursUAM.git">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=MyHoursUAM&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true&icon_color=F8D866&show_icons=false" alt="MyHoursUAM">
+    </a>
+       <a href="[https://github.com/KrisGerald02/MyHoursUAM](https://github.com/KrisGerald02/Olimpiada-Nacional-de-Robotica-Nicaragua-2024.git)">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=Olimpiada-Nacional-de-Robotica-Nicaragua-2024&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true&icon_color=F8D866&show_icons=false" alt="MyHoursUAM">
     </a>
   </p>
 </details>

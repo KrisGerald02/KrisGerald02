@@ -78,7 +78,8 @@
 
    <br>
     <a href="https://github.com/KrisGerald02?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-    <br>
+    
+ <br>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=KrisGerald02&label=Profile%20views&color=f75c7e&style=for-the-badge&color=f75c7e" alt="KrisGerald' profile views" />

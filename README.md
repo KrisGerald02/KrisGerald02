@@ -1,4 +1,4 @@
-
+      // <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C8B.svg?logo=kali-linux&logoColor=white"></a>
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <br>
 <p align="center">
@@ -67,7 +67,6 @@
   <p>
       <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-5865F2.svg?logo=figma&logoColor=white"></a>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-      // <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C8B.svg?logo=kali-linux&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F7DF1E.svg?logo=Power&20BIlogoColor=white"></a>

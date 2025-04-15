@@ -35,6 +35,7 @@
   <summary><h2>🛠️ Tools</h2></summary>
   <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
+     <a><img alt="Static Badge" src="https://img.shields.io/badge/R-blue"></a>
      <a><img alt="Swift" src="https://img.shields.io/badge/Swift-E34F26.svg?logo=swift&logoColor=white"></a>
       <a><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
       <a><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>

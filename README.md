@@ -55,6 +55,7 @@
   <p>
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white"></a>
       <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/-Laravel-9C033A?logo=Laravel&logoColor=white"></a>
       <a href="#"><img alt="XAMPP" src="https://img.shields.io/badge/-XAMPP-E34F26?logo=XAMPP&logoColor=white"></a>
   </p>

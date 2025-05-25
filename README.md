@@ -43,11 +43,8 @@
 
   <h3>🧰 Frameworks and Libraries</h3>
   <p>
-      <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white"></a>
-      <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/-Laravel-9C033A?logo=Laravel&logoColor=white"></a>
-      <a href="#"><img alt="XAMPP" src="https://img.shields.io/badge/-XAMPP-E34F26?logo=XAMPP&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -60,12 +57,12 @@
   <p>
       <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-5865F2.svg?logo=figma&logoColor=white"></a>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F7DF1E.svg?logo=Power&20BIlogoColor=white"></a>
       <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel-34A853.svg?logo=excel%20&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="XCode" src="https://img.shields.io/badge/XCode-1793D1.svg?logo=xcode&logoColor=white"></a>
+     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
   </p>
 
    <br>

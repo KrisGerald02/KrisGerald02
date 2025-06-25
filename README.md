@@ -22,9 +22,6 @@
      <a href="https://github.com/KrisGerald02/Projects_ARDUINO.git">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=Projects_ARDUINO&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true&icon_color=F8D866&show_icons=false" alt="Projects_ARDUINO">
     </a>
-     <a href="https://github.com/KrisGerald02/EfiDuino.git">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=EfiDuino&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true&icon_color=F8D866&show_icons=false" alt="EfiDuino">
-    </a>
   </p>
 </details>
 
@@ -32,10 +29,11 @@
   <summary><h2>🛠️ Tools</h2></summary>
   <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
+     <a><img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white"></a>
+     <a><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
      <a><img alt="Swift" src="https://img.shields.io/badge/Swift-E34F26.svg?logo=swift&logoColor=white"></a>
       <a><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>

@@ -20,6 +20,9 @@
     <a href="https://github.com/KrisGerald02/Projects_ARDUINO.git">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=Projects_ARDUINO&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true&icon_color=F8D866&show_icons=false" alt="Projects Arduino">
     </a>
+    <a href=" https://github.com/Pocoloco115/UAM-Game">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=UAMCourses&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true&icon_color=F8D866&show_icons=false" alt="UAMCourses">
+    </a>
   </p>
 </details>
 
@@ -63,6 +66,7 @@
 
   <p align="center">
     <a href="https://github.com/KrisGerald02?tab=repositories">
+
       <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
     </a>
   </p>

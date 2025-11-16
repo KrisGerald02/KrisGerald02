@@ -21,7 +21,7 @@
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=Projects_ARDUINO&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true&icon_color=F8D866&show_icons=false" alt="Projects Arduino">
     </a>
     <a href=" https://github.com/Pocoloco115/UAM-Game">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=UAMCourses&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true&icon_color=F8D866&show_icons=false" alt="UAMCourses">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=UAM-Game&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true&icon_color=F8D866&show_icons=false" alt="UAMCourses">
     </a>
   </p>
 </details>

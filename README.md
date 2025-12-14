@@ -1,20 +1,19 @@
-<!-- CUTE FACE SAME STYLE -->
+<!-- NAME / CUTE FACE -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com/?lines=♡%20Kristel%20Villalta%20:)%20♡;&font=Fira%20Code&color=%23D62F79&center=true&width=420&height=45"
-    alt="coding with love"
+    alt="Kristel Villalta"
   />
 </p>
 
-<!-- SUB CONTENT: LEFT REPOS / RIGHT BUNNY -->
+<!-- PROJECTS + BUNNY -->
 <p align="center">
 
-  <!-- LEFT: TOP REPOSITORIES -->
-  <span style="display:inline-block; width:45%; vertical-align:top;">
+  <!-- LEFT: PROJECTS -->
+  <span style="display:inline-block; width:50%; vertical-align:top;">
+    <h2>🐰 My Top Repositories</h2>
 
-   <h2>📘 My Top Repositories</h2>
-
-  <a href="https://github.com/KrisGerald02/UAMCourses.git">
+   <a href="https://github.com/KrisGerald02/UAMCourses.git">
       <img 
         width="260"
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=UAMCourses&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true"
@@ -35,11 +34,11 @@
   </span>
 
   <!-- RIGHT: BUNNY -->
-  <span style="display:inline-block; width:45%; vertical-align:top;">
+  <span style="display:inline-block; width:40%; vertical-align:top;">
     <img 
       src="assets/bunny.gif"
       alt="Bunny"
-      width="300"
+      width="280"
       style="border-radius: 20px;"
     />
   </span>
@@ -90,5 +89,8 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KrisGerald02&label=Profile%20views&style=for-the-badge&color=f75c7e" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=KrisGerald02&label=Profile%20views&style=for-the-badge&color=f75c7e"
+    alt="Profile views"
+  />
 </p>

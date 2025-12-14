@@ -13,22 +13,22 @@
   />
 </p>
 
-<!-- PROJECTS SIDE BY SIDE -->
+<!-- PROJECTS SIDE BY SIDE (SMALL) -->
 <p align="center">
   <h2>🐰 My Top Repositories</h2>
-  <span style="display:inline-block; width:48%; vertical-align:top;">
+  <span style="display:inline-block; width:45%; vertical-align:top;">
     <a href="https://github.com/KrisGerald02/UAMCourses.git">
       <img 
-        width="100%" 
+        width="90%" 
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=UAMCourses&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true"
         alt="UAMCourses"
       />
     </a>
   </span>
-  <span style="display:inline-block; width:48%; vertical-align:top; margin-left:4px;">
+  <span style="display:inline-block; width:45%; vertical-align:top;">
     <a href="https://github.com/KrisGerald02/Projects_ARDUINO.git">
       <img 
-        width="100%" 
+        width="90%" 
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=Projects_ARDUINO&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true"
         alt="Projects Arduino"
       />

@@ -1,15 +1,24 @@
 <h1 align="center">♡&emsp;I'm Kristel Villalta&emsp;♡</h1>
 
+<!-- Bunny main -->
 <p align="center">
-    <a href="https://github.com/KrisGerald02?tab=repositories" target="_blank">
-        <img src="assets/bunny.gif" alt="MasterHead"
-            style="width: 100%; max-width: 800px; border-radius: 15px" />
-    </a>
+  <a href="https://github.com/KrisGerald02?tab=repositories" target="_blank">
+    <img 
+      src="assets/bunny.gif" 
+      alt="Bunny Head"
+      style="width: 100%; max-width: 800px; border-radius: 18px;"
+    />
+  </a>
 </p>
 
+<!-- Smiley typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=:)&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?lines=:)🐰&font=Fira%20Code&color=%23D62F79&center=true&width=320&height=50"
+    alt="Typing Smiley"
+  />
 </p>
+
 
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>

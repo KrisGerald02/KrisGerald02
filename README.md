@@ -1,57 +1,57 @@
-<!-- HEADER LAYOUT -->
-<table align="center" width="100%">
-  <tr>
-    <!-- Left -->
-    <td align="center" width="33%">
-      <a href="https://github.com/KrisGerald02?tab=repositories">
-        <strong>📘 My Top Repositories</strong>
-      </a>
-    </td>
-    <td align="center" width="34%">
-      <h1>♡ Kristel Villalta <span style="color:#D62F79">:)</span> ♡</h1>
-    </td>
-    <!-- Right -->
-    <td align="center" width="33%">
-      <a href="https://github.com/KrisGerald02?tab=repositories">
-        <img 
-          src="assets/bunny.gif" 
-          alt="Bunny"
-          width="200"
-          style="border-radius: 18px;"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- TITLE -->
+<h1 align="center">♡ Kristel Villalta <span style="color:#D62F79">:)</span> ♡</h1>
 
-<br>
+<!-- SUB CONTENT: LEFT REPOS / RIGHT BUNNY -->
+<p align="center">
+
+  <!-- LEFT: TOP REPOSITORIES -->
+  <span style="display:inline-block; width:45%; vertical-align:top;">
+
+    <h2>📘 My Top Repositories</h2>
+
+    <a href="https://github.com/KrisGerald02/UAMCourses.git">
+      <img 
+        width="260"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=UAMCourses&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true"
+        alt="UAMCourses"
+      />
+    </a>
+
+    <br><br>
+
+    <a href="https://github.com/KrisGerald02/Projects_ARDUINO.git">
+      <img 
+        width="260"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=Projects_ARDUINO&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true"
+        alt="Projects Arduino"
+      />
+    </a>
+
+  </span>
+
+  <!-- RIGHT: BUNNY -->
+  <span style="display:inline-block; width:45%; vertical-align:top;">
+    <img 
+      src="assets/bunny.gif"
+      alt="Bunny"
+      width="300"
+      style="border-radius: 20px;"
+    />
+  </span>
+
+</p>
 
 <!-- TYPING SMILE -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?lines=cute%20bunny%20dev%20🐰;coding%20with%20love%20♡;&font=Fira%20Code&color=%23D62F79&center=true&width=420&height=50"
+    src="https://readme-typing-svg.herokuapp.com/?lines=cute%20bunny%20dev%20🐰;coding%20with%20love%20♡;&font=Fira%20Code&color=%23D62F79&center=true&width=420&height=45"
+    alt="Typing"
   />
 </p>
 
 ---
 
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
-
-  <p align="center">
-    <a href="https://github.com/KrisGerald02/UAMCourses.git">
-      <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=UAMCourses&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true" />
-    </a>
-    <br><br>
-    <a href="https://github.com/KrisGerald02/Projects_ARDUINO.git">
-      <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=Projects_ARDUINO&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true" />
-    </a>
-  </p>
-</details>
-
----
-
-<details open> 
+<details open>
   <summary><h2>🛠️ Tools</h2></summary>
 
   <h3>👨‍💻 Programming & Markup Languages</h3>
@@ -95,14 +95,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KrisGerald02&label=Profile%20views&style=for-the-badge&color=f75c7e" />
 </p>
-
-
-  <p align="center">
-    <a href="https://github.com/KrisGerald02?tab=repositories">
-  </p>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=KrisGerald02&label=Profile%20views&color=f75c7e&style=for-the-badge&color=f75c7e" alt="KrisGerald profile views" />
-  </p>
-
-</details>

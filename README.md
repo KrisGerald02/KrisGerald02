@@ -36,7 +36,6 @@
   </span>
 </p>
 
-
 <details open>
   <summary><h2>🛠️ Tools</h2></summary>
 
@@ -44,6 +43,8 @@
   <p>
     <img src="https://img.shields.io/badge/C%23-9B30FF.svg?logo=c-sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Architect_Enterprise-007ACC.svg?logo=microsoft&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Swift-E34F26.svg?logo=swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"/>
@@ -75,8 +76,6 @@
     <img src="https://img.shields.io/badge/Arduino-00979D.svg?logo=arduino&logoColor=white"/>
   </p>
 </details>
-
----
 
 <p align="center">
   <img 

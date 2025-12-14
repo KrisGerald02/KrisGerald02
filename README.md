@@ -13,24 +13,22 @@
   />
 </p>
 
-<!-- PROJECTS -->
+<!-- PROJECTS SIDE BY SIDE -->
 <p align="center">
-  <span style="display:inline-block; width:50%; vertical-align:top;">
-    <h2>📘 My Top Repositories</h2>
-
-  <a href="https://github.com/KrisGerald02/UAMCourses.git">
+  <h2>🐰 My Top Repositories</h2>
+  <span style="display:inline-block; width:48%; vertical-align:top;">
+    <a href="https://github.com/KrisGerald02/UAMCourses.git">
       <img 
-        width="260"
+        width="100%" 
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=UAMCourses&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true"
         alt="UAMCourses"
       />
     </a>
-
-  <br><br>
-
-  <a href="https://github.com/KrisGerald02/Projects_ARDUINO.git">
+  </span>
+  <span style="display:inline-block; width:48%; vertical-align:top; margin-left:4px;">
+    <a href="https://github.com/KrisGerald02/Projects_ARDUINO.git">
       <img 
-        width="260"
+        width="100%" 
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=Projects_ARDUINO&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true"
         alt="Projects Arduino"
       />
@@ -38,7 +36,6 @@
   </span>
 </p>
 
----
 
 <details open>
   <summary><h2>🛠️ Tools</h2></summary>

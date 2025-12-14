@@ -1,5 +1,15 @@
 <!-- TITLE -->
-<h1 align="center">♡ Kristel Villalta <span style="color:#D62F79">:)</span> ♡</h1>
+<h1 align="center">
+  ♡ Kristel Villalta ♡
+</h1>
+
+<!-- CUTE FACE SAME STYLE -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?lines=♡%20coding%20with%20love%20♡;&font=Fira%20Code&color=%23D62F79&center=true&width=420&height=45"
+    alt="coding with love"
+  />
+</p>
 
 <!-- SUB CONTENT: LEFT REPOS / RIGHT BUNNY -->
 <p align="center">
@@ -7,7 +17,7 @@
   <!-- LEFT: TOP REPOSITORIES -->
   <span style="display:inline-block; width:45%; vertical-align:top;">
 
-  <h2>📘 My Top Repositories</h2>
+   <h2>📘 My Top Repositories</h2>
 
   <a href="https://github.com/KrisGerald02/UAMCourses.git">
       <img 
@@ -17,9 +27,9 @@
       />
     </a>
 
-  <br><br>
+   <br><br>
 
-  <a href="https://github.com/KrisGerald02/Projects_ARDUINO.git">
+   <a href="https://github.com/KrisGerald02/Projects_ARDUINO.git">
       <img 
         width="260"
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=Projects_ARDUINO&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true"
@@ -39,14 +49,6 @@
     />
   </span>
 
-</p>
-
-<!-- TYPING SMILE -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com/?lines=cute%20bunny%20dev%20🐰;coding%20with%20love%20♡;&font=Fira%20Code&color=%23D62F79&center=true&width=420&height=45"
-    alt="Typing"
-  />
 </p>
 
 ---

@@ -7,12 +7,9 @@
         <strong>📘 My Top Repositories</strong>
       </a>
     </td>
-
-    <!-- Center -->
     <td align="center" width="34%">
       <h1>♡ Kristel Villalta <span style="color:#D62F79">:)</span> ♡</h1>
     </td>
-
     <!-- Right -->
     <td align="center" width="33%">
       <a href="https://github.com/KrisGerald02?tab=repositories">

@@ -1,19 +1,24 @@
-<!-- NAME / CUTE FACE -->
+<!-- NAME + SMALL BUNNY -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com/?lines=♡%20Kristel%20Villalta%20:)%20♡;&font=Fira%20Code&color=%23D62F79&center=true&width=420&height=45"
     alt="Kristel Villalta"
+    style="vertical-align:middle;"
+  />
+  <img 
+    src="assets/bunny.gif" 
+    alt="Bunny" 
+    width="40" 
+    style="vertical-align:middle; margin-left:8px;"
   />
 </p>
 
-<!-- PROJECTS + BUNNY -->
+<!-- PROJECTS -->
 <p align="center">
-
-  <!-- LEFT: PROJECTS -->
   <span style="display:inline-block; width:50%; vertical-align:top;">
-    <h2>🐰 My Top Repositories</h2>
+    <h2>📘 My Top Repositories</h2>
 
-   <a href="https://github.com/KrisGerald02/UAMCourses.git">
+  <a href="https://github.com/KrisGerald02/UAMCourses.git">
       <img 
         width="260"
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=UAMCourses&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true"
@@ -21,28 +26,16 @@
       />
     </a>
 
-   <br><br>
+  <br><br>
 
-   <a href="https://github.com/KrisGerald02/Projects_ARDUINO.git">
+  <a href="https://github.com/KrisGerald02/Projects_ARDUINO.git">
       <img 
         width="260"
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=Projects_ARDUINO&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true"
         alt="Projects Arduino"
       />
     </a>
-
   </span>
-
-  <!-- RIGHT: BUNNY -->
-  <span style="display:inline-block; width:40%; vertical-align:top;">
-    <img 
-      src="assets/bunny.gif"
-      alt="Bunny"
-      width="280"
-      style="border-radius: 20px;"
-    />
-  </span>
-
 </p>
 
 ---

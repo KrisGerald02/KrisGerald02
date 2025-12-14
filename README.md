@@ -23,6 +23,7 @@
   <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
     <a><img alt="C#" src="https://img.shields.io/badge/C%23-9B30FF.svg?logo=c-sharp&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk&logoColor=white"></a>
     <a><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a><img alt="Swift" src="https://img.shields.io/badge/Swift-E34F26.svg?logo=swift&logoColor=white"></a>
     <a><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -37,9 +38,14 @@
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
   <p>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927.svg?logo=microsoftsqlserver&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
+
+ 
+
+
 
   <h3>💻 Software and Tools</h3>
   <p>

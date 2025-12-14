@@ -1,12 +1,7 @@
-<!-- TITLE -->
-<h1 align="center">
-  ♡ Kristel Villalta ♡
-</h1>
-
 <!-- CUTE FACE SAME STYLE -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?lines=♡%20coding%20with%20love%20♡;&font=Fira%20Code&color=%23D62F79&center=true&width=420&height=45"
+    src="https://readme-typing-svg.herokuapp.com/?lines=♡%20Kristel%20Villalta%20:)%20♡;&font=Fira%20Code&color=%23D62F79&center=true&width=420&height=45"
     alt="coding with love"
   />
 </p>

@@ -7,9 +7,9 @@
   <!-- LEFT: TOP REPOSITORIES -->
   <span style="display:inline-block; width:45%; vertical-align:top;">
 
-    <h2>📘 My Top Repositories</h2>
+  <h2>📘 My Top Repositories</h2>
 
-    <a href="https://github.com/KrisGerald02/UAMCourses.git">
+  <a href="https://github.com/KrisGerald02/UAMCourses.git">
       <img 
         width="260"
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=UAMCourses&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true"
@@ -17,9 +17,9 @@
       />
     </a>
 
-    <br><br>
+  <br><br>
 
-    <a href="https://github.com/KrisGerald02/Projects_ARDUINO.git">
+  <a href="https://github.com/KrisGerald02/Projects_ARDUINO.git">
       <img 
         width="260"
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KrisGerald02&repo=Projects_ARDUINO&theme=react&bg_color=1F222E&title_color=F75C7E&hide_border=true"

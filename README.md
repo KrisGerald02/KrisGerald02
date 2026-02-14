@@ -41,20 +41,12 @@
 
   <h3>👨‍💻 Programming & Markup Languages</h3>
   <p>
-    <img src="https://img.shields.io/badge/C%23-9B30FF.svg?logo=c-sharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Swift-E34F26.svg?logo=swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"/>
   </p>
 
-  <h3>🧰 Frameworks & Libraries</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"/>
-  </p>
 
   <h3>🗄️ Databases & Cloud</h3>
   <p>
@@ -68,7 +60,6 @@
   <p>
     <img src="https://img.shields.io/badge/Figma-5865F2.svg?logo=figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/PowerBI-F7DF1E.svg?logo=powerbi&logoColor=black"/>
     <img src="https://img.shields.io/badge/Excel-34A853.svg?logo=microsoft-excel&logoColor=white"/>
     <img src="https://img.shields.io/badge/VS_Code-0078d7.svg?logo=visual-studio-code&logoColor=white"/>

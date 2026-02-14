@@ -43,8 +43,6 @@
   <p>
     <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Swift-E34F26.svg?logo=swift&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"/>
   </p>
 
 

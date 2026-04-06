@@ -39,7 +39,7 @@
 <details open>
   <summary><h2>🛠️ Tools</h2></summary>
 
-  <h3>👨‍💻 Programming & Markup Languages</h3>
+  <h3>👨‍💻 Programming Languages</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Swift-E34F26.svg?logo=swift&logoColor=white"/>

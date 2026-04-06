@@ -16,7 +16,6 @@
 <!-- PROJECTS SIDE BY SIDE (SMALL) -->
 <p align="center">
   <h2>🐰 My Top Repositories</h2>
-  <span style="display:inline-block; width:45%; vertical-align:top;">
     <a href="https://github.com/KrisGerald02/UAMCourses.git">
       <img 
         width="30%" 
@@ -24,7 +23,6 @@
         alt="UAMCourses"
       />
     </a>
-  </span>
   <span style="display:inline-block; width:45%; vertical-align:top;">
     <a href="https://github.com/KrisGerald02/Projects_ARDUINO.git">
       <img 

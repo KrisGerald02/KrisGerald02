@@ -64,9 +64,3 @@
   </p>
 </details>
 
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=KrisGerald02&label=Profile%20views&style=for-the-badge&color=f75c7e"
-    alt="Profile views"
-  />
-</p>

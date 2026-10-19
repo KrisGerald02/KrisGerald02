@@ -14,11 +14,11 @@
 <!-- PORTFOLIO & BUSINESS -->
 <h2>🌷 Find My Work</h2>
 
-<p align="center">
+<p>
   Explore my projects or visit my business website ♡
 </p>
 
-<p align="center">
+<p>
   <a href="https://krisgerald02.github.io/Portfolio/">
     <img
       src="https://img.shields.io/badge/♡_My_Portfolio-D62F79?style=for-the-badge"

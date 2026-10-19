@@ -37,7 +37,7 @@
 <!-- TOP REPOSITORIES -->
 <h2>🐰 My Top Repositories</h2>
 
-<p align="center">
+<p>
   <a href="https://github.com/KrisGerald02/UAMCourses">
     <img
       width="30%"

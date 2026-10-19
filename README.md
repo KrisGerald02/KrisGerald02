@@ -12,7 +12,7 @@
 </p>
 
 <!-- PORTFOLIO & BUSINESS -->
-<h2 align="center">🌷 Find My Work</h2>
+<h2>🌷 Find My Work</h2>
 
 <p align="center">
   Explore my projects or visit my business website ♡
